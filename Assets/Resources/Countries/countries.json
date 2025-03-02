@@ -1,0 +1,70 @@
+﻿{
+  "countries": [
+    {
+      "name": "Germany",
+      "tag": "GER",
+      "color": "#fe5c29",
+      "flagPath": "germany(modern) flag.png"
+    },
+    {
+      "name": "France",
+      "tag": "FRA",
+      "color": "#3fc262",
+      "flagPath": "france flag.png"
+    },
+    {
+      "name": "Italy",
+      "tag": "ITA",
+      "color": "#33d833",
+      "flagPath": "italy(modern) flag.png"
+    },
+    {
+      "name": "United States",
+      "tag": "USA",
+      "color": "#b0b0b0",
+      "flagPath": "american flag.png"
+    },
+    {
+      "name": "Belgium",
+      "tag": "BEL",
+      "color": "#adc532",
+      "flagPath": "belgium flag.png"
+    },
+    {
+      "name": "Denmark",
+      "tag": "DEN",
+      "color": "#c100df",
+      "flagPath": "Denmarkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkk.png"
+    },
+    {
+      "name": "Bavaria",
+      "tag": "BAV",
+      "color": "#3f81c2",
+      "flagPath": "blank flag.png"
+    },
+    {
+      "name": "Poland",
+      "tag": "POL",
+      "color": "#293cfe",
+      "flagPath": "poland flag.png"
+    },
+    {
+      "name": "Japan",
+      "tag": "JAP",
+      "color": "#00e4ff",
+      "flagPath": "japan flag.png"
+    },
+    {
+      "name": "China",
+      "tag": "CHI",
+      "color": "#9b1e1e",
+      "flagPath": "blank flag.png"
+    },
+    {
+      "name": "Sexico",
+      "tag": "SEX",
+      "color": "#72ff00",
+      "flagPath": "blank flag.png"
+    }
+  ]
+}
